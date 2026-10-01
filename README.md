@@ -8,7 +8,7 @@ Made by **JEEFRY**
 
 | Main menu | Running an option |
 |-----------|-------------------|
-| ![Main menu](sc1.jpg) | ![Running an option](sc2.jpg) |
+| ![Main menu](sc1.jpeg) | ![Running an option](sc2.jpeg) |
 
 ## Features
 
